@@ -41,6 +41,7 @@
 - [Most podiums together](most_podiums_together)
 - [Most records at a single competition](most_records_at_single_competition)
 - [Most solves before getting a successful BLD attempt](most_solves_before_bld_success)
+- [Most solves before getting a successful FMC attempt](most solves before fmc success).
 - [Most visited continents](most_visited_continents)
 - [Most visited countries](most_visited_countries)
 - [Moving average](moving_average)
